@@ -121,7 +121,7 @@ $router->group(['middleware' => ['auth']], function () use ($router){
 });
 
 $router->get('/', function () use ($router) {
-    return $router->app->version();
+    return $router->app->version().'<h1>Esto es una prueba</h1>';
 });
 
 //Emails [EN P RUEBAS]

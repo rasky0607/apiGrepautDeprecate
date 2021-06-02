@@ -11,7 +11,7 @@
         <title>Test mail</title>
         <body>
             <h1>Esto es un test de envio mail para nuevos usuarios</h1>
-            <img src="../../../img/logoGrepaut.png"/>
+            <img src="../../img/logoGrepaut.png"/>
         </body>
     </head>
 </html>
